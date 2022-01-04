@@ -20,46 +20,4 @@ body{
     font-family: sans-serif;
     background-color: #ffe4e1;
 }
-.login{
-    width: 100vw;
-    height: 100vh;
-    background-size: cover;
-    margin: 0;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
 
-.login__submit.error{
-    background: var(--input-error);
-}
-.login__submit.success{
-    background: var(--input-success);
-}
-.login__input:focus + .login__input-border::after {
-    width: 100%;
-}
-.login__input-border::after {
-    content: "";
-    display: block;
-    height: 1px;
-    width: 0;
-    background: linear-gradient(217deg, rgba(56, 25, 85, 0.8), rgba(255,0,0,0) 70.71%),
-    linear-gradient(127deg, rgba(255, 0, 234, 0.8), rgba(0,255,0,0) 70.71%),
-    linear-gradient(336deg, rgba(255, 251, 0, 0.8), rgba(0,0,255,0) 70.71%);
-    transition: 0.3s ease-in-out;
-}
-.login__input-border.error {
-    background: var(--input-error);
-}
-.login__input-border.error::after {
-    background: var(--input-error);
-}
-.icones:hover{
-    cursor: pointer;
-}
-.resize {
-    width: 120px;
-    height: auto;
-    border-radius: 10px;
-}
