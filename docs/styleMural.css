@@ -1,16 +1,16 @@
-body
-{
-    background-color: #e3e6e0;
+body {
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	font-weight: bold;
+  	background-color: #e3e6e0;
+  	color: rgba(0,0,0,.55);
 }
 
-#barra
-{
+#barra {
 	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 	font-weight: bold;
 	background-color: #e3e6e0;
 }
 
-#habilitado
-{
+#habilitado {
 	color: rgb(69, 138, 0);
 }

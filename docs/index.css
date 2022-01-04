@@ -1,3 +1,16 @@
+body {
+    background-color: #e3e6e0;
+}
+
+#barra {
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	font-weight: bold;
+	background-color: #e3e6e0;
+}
+
+#habilitado {
+	color: rgb(69, 138, 0);
+}
 .sellingpoints{
     justify-content: center;
     text-align: center;
@@ -30,17 +43,12 @@
     background: rgb(69, 138, 0);
     background: linear-gradient(90deg, rgb(69, 138, 0) 0%, rgba(210,199,203,1) 58%);
     font-family: sans-serif, rgba(0,0,0,.55);
-    
-    
-
 }
 
 .cabecalho{
-    
     justify-content: right;
     font-family: sans-serif;
     text-align: right;
-
 }
 
 navbar navbar-expand-lg navbar-light bg-light{
