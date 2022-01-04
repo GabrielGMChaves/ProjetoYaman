@@ -27,8 +27,8 @@
 
 .footer{
     
-    background: rgb(212,84,162);
-    background: linear-gradient(90deg, rgba(212,84,162,1) 0%, rgba(210,199,203,1) 58%);
+    background: rgb(69, 138, 0);
+    background: linear-gradient(90deg, rgb(69, 138, 0) 0%, rgba(210,199,203,1) 58%);
     font-family: sans-serif, rgba(0,0,0,.55);
     
     
