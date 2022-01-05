@@ -123,9 +123,8 @@ p {
 }
 
 .cabecalho{
-    justify-content: right;
-    font-family: sans-serif;
-    text-align: right;
+    justify-content: center;
+    text-align: center;
 }
 
 navbar navbar-expand-lg navbar-light bg-light{

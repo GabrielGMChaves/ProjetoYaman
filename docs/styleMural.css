@@ -20,17 +20,7 @@ body {
     text-align: center;
 }
 
-navbar navbar-expand-lg navbar-light bg-light{
-
-    
-    padding: 10px;
-    text-align: right;
-    justify-content: center;
-    font-family: sans-serif, 20px;
-}
-
-container-fluid{
-    text-align: right;
-    justify-content: right;
-    justify-items: right;
+p{
+    justify-content: left;
+    text-align: left;
 }
