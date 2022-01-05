@@ -121,3 +121,8 @@ p {
     padding: 10px;
     font-size: 18px;
 }
+
+.cabecalho{
+    justify-content: center;
+    text-align: center;
+}
