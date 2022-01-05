@@ -121,3 +121,18 @@ p {
     padding: 10px;
     font-size: 18px;
 }
+
+.cabecalho{
+    justify-content: right;
+    font-family: sans-serif;
+    text-align: right;
+}
+
+navbar navbar-expand-lg navbar-light bg-light{
+
+    
+    padding: 10px;
+    text-align: right;
+    justify-content: center;
+    font-family: sans-serif, 20px;
+}
